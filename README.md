@@ -1,3 +1,3 @@
 # Arduinosu
-A osu keypad made with arduino pro micro
+An osu keypad made with Arduino pro micro
 ## Writing Diagram
